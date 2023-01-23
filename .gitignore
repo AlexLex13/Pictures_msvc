@@ -4,3 +4,4 @@ __pycache__
 __init__.py
 settings.py
 .dbdata
+migrations
